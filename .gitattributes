@@ -14,6 +14,11 @@
 /project.godot export-ignore
 /icon.svg export-ignore
 /icon.svg.import export-ignore
+/view1.png export-ignore
+/view2.png export-ignore
+/view3.png export-ignore
+/view4.png export-ignore
+/view1.jpeg export-ignore
 
 # Only include the addons folder and its contents
 !/addons export-ignore
