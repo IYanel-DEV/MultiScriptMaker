@@ -1,6 +1,14 @@
-# Multi Script Maker v4.0
+<h1 align="center">Multi Script Maker v4.0</h1>
 
-![Plugin Banner](https://img.shields.io/badge/Godot-4.0+-blue.svg) ![Version](https://img.shields.io/badge/version-4.0-purple.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Godot-4.0+-blue.svg" alt="Godot Version">
+  <img src="https://img.shields.io/badge/version-4.0-purple.svg" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+</p>
+
+<p align="center">
+A powerful Godot plugin that allows you to create multiple scripts at once with customizable templates and advanced functionality.
+</p>
 
 A powerful Godot 4 editor plugin that streamlines the creation of multiple GDScript files with advanced folder organization, beautiful UI themes, and intelligent file management.
 
